@@ -1,0 +1,44 @@
+.item-color {
+	width: 25px;
+	height: 25px;
+	border: 1px solid black;
+	border-radius: 12px;
+
+}
+
+.item-attachments {
+	display: flex;
+}
+
+.item-attachments>img {
+	margin: 3px;
+	cursor: pointer;
+}
+
+.option-color__red {
+	background-color: red;
+}
+
+.option-color__green {
+	background-color: green;
+}
+
+.option-color__blue {
+	background-color: blue;
+}
+
+.option-color__yellow {
+	background-color: yellow;
+}
+
+.option-color__silver {
+	background-color: silver;
+}
+
+.option-color__black {
+	background-color: black;
+}
+
+.option-color__white {
+	background-color: white;
+}

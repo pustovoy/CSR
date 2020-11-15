@@ -1,0 +1,33 @@
+.item-color {
+	width: 25px;
+	height: 25px;
+	border: 1px solid black;
+	border-radius: 12px;
+
+}
+
+.item-description {
+	display: flex;
+}
+
+.item-description--images {
+	width: 35%;
+	margin-right: 2rem;
+}
+
+.item-description--images>img {
+	margin: 3px;
+	transition: transform 0.25s ease;
+}
+
+.item-description--images>img:hover {
+	cursor: pointer;
+	-webkit-transform: scale(2.5);
+    transform: scale(2.5);
+}
+
+.item-description--text {
+	width: 65%;
+	font-size: 1rem;
+	font-weight: 600;
+}

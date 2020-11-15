@@ -1,0 +1,4 @@
+<script src="../../SiteAssets/scripts/jQuery/jquery-3.4.1.min.js"></script>
+<script src="../../SiteAssets/scripts/itemView.js"></script>
+
+<link rel="stylesheet" type="text/css" href="../../SiteAssets/scripts/itemView.css">
